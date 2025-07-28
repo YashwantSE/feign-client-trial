@@ -1,0 +1,3 @@
+com\yys\consumer\feign\FeignController.class
+com\yys\consumer\ConsumerApplication.class
+com\yys\consumer\feign\ProviderFeignClient.class
